@@ -1,3 +1,3 @@
 # Application Preview
 
-![application preview](docs/Capture.PNG)
+![application preview](docs/preview.gif)
