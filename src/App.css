@@ -1,0 +1,52 @@
+html, body, #root, .App {
+  height: 100%;
+}
+
+.maintable {
+  width: 100%;
+  height: 100%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+}
+
+.tablebody {
+  
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: black;
+
+}
+
+.tablerow {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+.tablespace {
+  display: table-cell;
+  vertical-align: inherit;
+  padding: 5px;
+  width: 24%;
+  height: 24%;
+}
+
+.Lists{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+/*
+.tablecell {
+  cursor: pointer;
+  font-family: Roboto,arial,sans-serif;
+  text-align: center;
+  line-height: 34px;
+  margin: 4px;
+  box-sizing: border-box;
+  position: relative;
+  border-radius: 4px;
+}
+*/
